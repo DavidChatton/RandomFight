@@ -30,7 +30,7 @@ Make sure you have PHP version 7.0 or higher installed on your machine.
 ```bash
 
 # Clone this project
-$ git clone https://github.com/yourusername/Warrior-Battle-Simulator
+$ git clone https://github.com/DavidChatton/RandomFight
 
 # Access
 $ cd RandomFight
